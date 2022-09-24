@@ -1,4 +1,4 @@
-# Javascript Assignment Color changer
+# Javascript Assignment Calculator
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 
@@ -6,24 +6,24 @@
 
 ![HTML & CSS](https://img.shields.io/badge/JAVASCRIPT-DOM-orange)
 
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--COLOR--CHANGER-lightgrey)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--CALCULATOR-lightgrey)
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Color Changer [Live Link](https://name-conversion-js.netlify.app/)
+## Calculator [Live Link](https://basic-calculatorr.netlify.app/)
 
 - Skills Gained in this project
 
-  - lern addEvent on click
+  - use airthmatic operators
 
-  - use Math.random to get random number
+  - delete last value in input on click using destucturing and pop method
 
 ---
 
 ## Time taken to finish this project
 
-- 30 minutes to complete it
+- 1 hour 50 minutes to complete it
 
 #### Screenshot
 
-![Desktop](./Image/js-3.jpg)
+![Desktop](./Image/js-11.jpg)
